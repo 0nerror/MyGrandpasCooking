@@ -1,0 +1,10 @@
+/home/onerror/MyGrandpasCooking/bin/Debug/netcoreapp2.0/MyGrandpasCooking.deps.json
+/home/onerror/MyGrandpasCooking/bin/Debug/netcoreapp2.0/MyGrandpasCooking.runtimeconfig.json
+/home/onerror/MyGrandpasCooking/bin/Debug/netcoreapp2.0/MyGrandpasCooking.runtimeconfig.dev.json
+/home/onerror/MyGrandpasCooking/bin/Debug/netcoreapp2.0/MyGrandpasCooking.dll
+/home/onerror/MyGrandpasCooking/bin/Debug/netcoreapp2.0/MyGrandpasCooking.pdb
+/home/onerror/MyGrandpasCooking/obj/Debug/netcoreapp2.0/MyGrandpasCooking.csproj.CoreCompileInputs.cache
+/home/onerror/MyGrandpasCooking/obj/Debug/netcoreapp2.0/MyGrandpasCooking.AssemblyInfoInputs.cache
+/home/onerror/MyGrandpasCooking/obj/Debug/netcoreapp2.0/MyGrandpasCooking.AssemblyInfo.cs
+/home/onerror/MyGrandpasCooking/obj/Debug/netcoreapp2.0/MyGrandpasCooking.dll
+/home/onerror/MyGrandpasCooking/obj/Debug/netcoreapp2.0/MyGrandpasCooking.pdb
